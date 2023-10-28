@@ -10,7 +10,7 @@ NS4='ns-id3.slowdns.me'
 A4='id3.slowdns.me'
 LOOP_DELAY=5
 
-declare -a HOSTS=('124.6.181.31' '124.6.181.20')
+declare -a HOSTS=('112.198.126.44' '124.6.181.20')
 DIG_EXEC="DEFAULT"
 
 CUSTOM_DIG=/data/data/com.termux/files/home/go/bin/fastdig
