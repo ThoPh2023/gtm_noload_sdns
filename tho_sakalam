@@ -3,6 +3,7 @@ NS1='ns-ph2.vpnjz.com'
 NS2='dns.xs-2.optnl.com'
 NS3='ns-my2.vpnjantit.com'
 NS4='ns-sg3.slowdns.me'
+NS='dns.xs-1.optnl.com' 
 
 LOOP_DELAY=5
 
