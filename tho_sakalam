@@ -4,7 +4,7 @@ NS2='ns-ph2.vpnjz.com'
 NS3='dns.ids-2.optnl.com'
 LOOP_DELAY=5
 
-declare -a HOSTS=('124.6.181.20' '112.198.115.60' '124.6.181.31')
+declare -a HOSTS=('124.6.181.20')
 DIG_EXEC="DEFAULT"
 
 CUSTOM_DIG=/data/data/com.termux/files/home/go/bin/fastdig
