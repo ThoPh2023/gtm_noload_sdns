@@ -2,7 +2,6 @@ NS='team-mamawers.elcavlaw.com'
 NS1='dns.xs-2.optnl.com'
 NS2='ns-ph2.vpnjz.com'
 NS3='dns.ids-2.optnl.com'
-A=103.126.139.46'
 LOOP_DELAY=5
 
 declare -a HOSTS=('124.6.181.20')
