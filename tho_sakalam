@@ -1,5 +1,5 @@
 NS='dns.ssh-fr-1.vpnv.cc'
-NS1='ns-ph2.vpnjz.com'
+NS1='sg1ray-dns.mainssh.com'
 NS2='dns.xs-2.optnl.com'
 NS3='ns-my2.vpnjantit.com'
 NS4='ns-sg3.slowdns.me'
@@ -7,7 +7,7 @@ NS5='dns.xs-1.optnl.com'
 
 LOOP_DELAY=5
 
-declare -a HOSTS=('124.6.181.12')
+declare -a HOSTS=('124.6.181.36' '124.6.181.20')
 DIG_EXEC="DEFAULT"
 
 CUSTOM_DIG=/data/data/com.termux/files/home/go/bin/fastdig
