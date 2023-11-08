@@ -1,9 +1,9 @@
 NS='dns.ssh-fr-1.vpnv.cc'
-NS1='sg1ray-dns.mainssh.com'
+NS1='james.ubuntu.sardinas.cf'
 NS2='dns.xs-2.optnl.com'
 NS3='ns.wstest.abalos-zoey.online'
-NS4='james.ubuntu.sardinas.cf'
-NS5='dns.xs-1.optnl.com' 
+NS4='dns.xs-1.optnl.com'
+ 
 
 LOOP_DELAY=5
 
