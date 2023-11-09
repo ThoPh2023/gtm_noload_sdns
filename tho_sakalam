@@ -1,9 +1,9 @@
-NS='fr1.tunnel.cx'
-NS1='james.ubuntu.sardinas.cf'
-NS2='dns.xs-2.optnl.com'
-NS3='ns.wstest.abalos-zoey.online'
-NS4='dns.xs-1.optnl.com'
-NS5='br1.tunnel.cx'
+NS1='fr1.tunnel.cx'
+NS2='james.ubuntu.sardinas.cf'
+NS3='dns.xs-2.optnl.com'
+NS4='ns.wstest.abalos-zoey.online'
+NS5='dns.xs-1.optnl.com'
+NS6='br1.tunnel.cx'
 
 LOOP_DELAY=5
 
