@@ -1,7 +1,7 @@
 NS='fr1.tunnel.cx'
 NS1='br1.tunnel.cx'
 NS2='ns-ph2.vpnjz.com'
-NS3='dns.uss-4.optnl.com'
+NS3='ns-my4.vpnjantit.com'
 NS4='ns-sg3.slowdns.me'
 
 LOOP_DELAY=5
