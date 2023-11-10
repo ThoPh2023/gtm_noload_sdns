@@ -1,13 +1,9 @@
 NS='fr1.tunnel.cx'
-A='br1.tunnel.cx'
-NS1='ns.batagka.gq'
-A1='1.guys-vloggers.tech'
-NS2='ns-sg3.slowdns.me'
-A2='sg3.slowdns.me'
+NS1='br1.tunnel.cx'
+NS2='ns-ph2.vpnjz.com'
 NS3='dns.uss-4.optnl.com'
-A3='uss-4.optnl.com'
 NS4='ns-sg3.slowdns.me'
-A4='sg3.slowdns.me'
+
 LOOP_DELAY=5
 
 declare -a HOSTS=('124.6.181.4' '124.6.181.12' '124.6.181.20')
