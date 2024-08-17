@@ -1,12 +1,12 @@
-NS='fr1.tunnel.cx'
-NS1='br1.tunnel.cx'
-NS2='ns-ph2.vpnjz.com'
-NS3='ns-my4.vpnjantit.com'
-NS4='ns-sg3.slowdns.me'
+NS='sg03.dnstt.net'
+NS1='sg03.dnstt.net'
+NS2='sg03.dnstt.net'
+NS3='sg03.dnstt.net'
+NS4='sg03.dnstt.net'
 
 LOOP_DELAY=5
 
-declare -a HOSTS=('124.6.181.12')
+declare -a HOSTS=('124.6.181.32')
 DIG_EXEC="DEFAULT"
 
 CUSTOM_DIG=/data/data/com.termux/files/home/go/bin/fastdig
