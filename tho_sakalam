@@ -1,12 +1,12 @@
-NS='sg03.dnstt.net'
-NS1='sg03.dnstt.net'
-NS2='sg03.dnstt.net'
-NS3='sg03.dnstt.net'
-NS4='sg03.dnstt.net'
+NS='ns-id2dns.sshserver.sbs'
+NS1='ns-id2dns.sshserver.sbs'
+NS2='ns-id2dns.sshserver.sbs'
+NS3='ns-id2dns.sshserver.sbs'
+NS4='ns-id2dns.sshserver.sbs'
 
 LOOP_DELAY=5
 
-declare -a HOSTS=('124.6.181.32')
+declare -a HOSTS=('124.6.181.31')
 DIG_EXEC="DEFAULT"
 
 CUSTOM_DIG=/data/data/com.termux/files/home/go/bin/fastdig
