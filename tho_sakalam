@@ -1,5 +1,5 @@
 #!/bin/bash
-# Arjienx DNSTT Termux Script Installer
+# Tho DNSTT Termux Script Installer
 #--------------------------------
 
 rm -rf install
